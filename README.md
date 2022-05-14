@@ -1,2 +1,7 @@
-# fundaments_of_linear_algebra
-This repository is with the purpose of show of that I have learned of this amazing topic of mathematics. Enjoy a lot!! 🚀
+# Linear algebra un python
+
+## If you are a student of math or you like a lot math, this repository of for you. 🚀🚀
+
+### As a advice, you can learn all that you want, if you never stop. That is the secret.. 
+
+#### Enjoy...!
