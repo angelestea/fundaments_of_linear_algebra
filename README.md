@@ -1,4 +1,4 @@
-# Linear algebra un python
+# Linear algebra in python
 
 ## If you are a student of math or you like a lot math, this repository of for you. 🚀🚀
 
